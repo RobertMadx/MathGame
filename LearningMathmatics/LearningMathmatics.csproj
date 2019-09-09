@@ -299,6 +299,7 @@
     <None Include="Resources\71.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="mathgame1.png" />
     <Content Include="subtract.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
